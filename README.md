@@ -5,7 +5,7 @@ Do you want to be the best at Quizlet match out of all of your friends? Well the
 
 Here is the code:
 
-	no code for u
+	alert("No code for you");
 	
 And... That's it! To use this code, first go to this part of the Quizlet match:
 ![Quizlet Match Main](https://raw.githubusercontent.com/jaeheonshim/quizlet-match-hack/master/quizlet.png  "Make Everything Disappear!")
