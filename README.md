@@ -5,7 +5,7 @@ Do you want to be the best at Quizlet match out of all of your friends? Well the
 
 Here is the code:
 
-	document.getElementsByClassName("UIButton UIButton--hero")[0].click()
+	document.getElementsByClassName("UIButton UIButton--hero")[0].click();
 	setTimeout(function(){for(var F = setTimeout(";"), i = 0; i < F; i++) clearTimeout(i)}, 5100); //Change 5100
 	
 And... That's it! To use this code, first go to this part of the Quizlet match:
