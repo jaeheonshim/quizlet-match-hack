@@ -14,4 +14,3 @@ Then, right click and press inspect element. Go into the console tab, and paste 
 Press ENTER, and the timer will stop at your desired time! However, you'll still have to answer the questions, but can do so at your leisure. Enjoy!
 
 Jaeheon Shim
-www.learnthetechnology.com
